@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42767'
     url: http://www.gutenberg.org/2009/agents/42767
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44459#Lee-and-Longstreet-at-High-TideGettysburg-in-the-Light-of-the-Official-Records
 gutenberg_issued: '2013-12-18'
 gutenberg_type: Text
 identifiers:
