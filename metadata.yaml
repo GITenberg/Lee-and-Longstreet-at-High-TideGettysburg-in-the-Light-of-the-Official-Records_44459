@@ -1,0 +1,30 @@
+_repo: Lee-and-Longstreet-at-High-TideGettysburg-in-the-Light-of-the-Official-Records_44459
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44459-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Longstreet, Helen Dortch
+    alias: Dortch, Helen
+    deathdate: 1962
+    gutenberg_agent_id: '42767'
+    url: http://www.gutenberg.org/2009/agents/42767
+description: ''
+gutenberg_issued: '2013-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44459'
+  lccn: '04026225'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Longstreet, James, 1821-1904'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcsh 'Generals -- United States -- Biography'
+- !lcsh 'Gettysburg, Battle of, Gettysburg, Pa., 1863'
+- !lcc 'E456'
+title: 'Lee and Longstreet at High Tide: Gettysburg in the Light of the Official Records'
+url: http://www.gutenberg.org/ebooks/44459
